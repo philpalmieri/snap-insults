@@ -1,0 +1,13 @@
+{
+  "name": "insultme",
+  "version": "1.0.0",
+  "description": "insult yourself",
+  "license": "MIT",
+  "private": true,
+  "bin": "./main.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "got": "^7.0.0",
+    "ora": "^1.2.0"
+  }
+}

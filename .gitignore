@@ -1,0 +1,12 @@
+parts/
+stage/
+prime/
+*.snap
+**/__pycache__
+*.bzr
+package-lock.json
+*.log
+.DS_Store
+node_modules
+*.gz
+snap/.snapcraft
